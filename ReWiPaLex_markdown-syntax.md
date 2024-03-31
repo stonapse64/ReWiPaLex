@@ -2,6 +2,8 @@
 > The major content of this page is a copy of the following source: [markdown-syntax.md by Hasan Caslan](https://gist.github.com/hasancaslan/ae757b33ef1946a6f8ce20aae2feabf4)
 > The video section is from: [Markdown Cheatsheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
 >
+> For a comprehensive guide go to [https://www.markdownguide.org/](https://www.markdownguide.org/)
+>
 > To view the page in rendered mode in Visual Studio Code enter CTRL+SHIFT+V.
 
 # Markdown Syntax
