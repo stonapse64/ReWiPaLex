@@ -1,5 +1,5 @@
 # ReWiPaLex
-Repository of wisdom and painful lessons with Python, Jupyter and Windows.
+Repository of wisdom and painful lessons with Python, Jupyter, Linux and Windows.
 
 ## Introduction
 This is a collection of learnings that I made during my learning journey with data science and machine learning during 2024. I consider myself a beginner in these fields and the learning curve was and still is steep, mostly joyful but sometimes joyful and painful at the same time.
